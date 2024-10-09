@@ -1,0 +1,197 @@
+﻿@model OrderVM
+<form method="post">
+    <input asp-for="OrderHeader.Id" hidden />
+    <br />
+    <div class="container">
+        <div class="row">
+            <!-- Left Side: Order Details -->
+            <div class="col-12 col-lg-6">
+                <div class="card mb-3">
+                    <div class="card-header bg-dark text-light">
+                        <i class="fas fa-shopping-cart"></i> &nbsp; Sipariş Özeti
+                    </div>
+                    <div class="card-body">
+                        <h4 class="text-primary">Detaylar:</h4>
+
+                        <!-- Name -->
+                        <div class="form-group row">
+                            <label class="col-3">İsim</label>
+                            <div class="col-9">
+                                @if (User.IsInRole(SD.Role_Admin))
+                                {
+                                    <input asp-for="OrderHeader.Name" type="text" class="form-control" />
+                                    <span asp-validation-for="OrderHeader.Name" class="text-danger"></span>
+                                }
+                                else
+                                {
+                                    <input asp-for="OrderHeader.Name" readonly type="text" class="form-control" />
+                                }
+                            </div>
+                        </div>
+
+                        <!-- Phone -->
+                        <div class="form-group row">
+                            <label class="col-3">Telefon</label>
+                            <div class="col-9">
+                                @if (User.IsInRole(SD.Role_Admin))
+                                {
+                                    <input asp-for="OrderHeader.PhoneNumber" type="text" class="form-control" />
+                                    <span asp-validation-for="OrderHeader.PhoneNumber" class="text-danger"></span>
+                                }
+                                else
+                                {
+                                    <input asp-for="OrderHeader.PhoneNumber" readonly type="text" class="form-control" />
+                                }
+                            </div>
+                        </div>
+
+                        <!-- Address -->
+                        <div class="form-group row">
+                            <label class="col-3">Adres</label>
+                            <div class="col-9">
+                                @if (User.IsInRole(SD.Role_Admin))
+                                {
+                                    <input asp-for="OrderHeader.StreetAddress" type="text" class="form-control" />
+                                    <span asp-validation-for="OrderHeader.StreetAddress" class="text-danger"></span>
+                                }
+                                else
+                                {
+                                    <input asp-for="OrderHeader.StreetAddress" readonly type="text" class="form-control" />
+                                }
+                            </div>
+                        </div>
+
+                        <!-- City -->
+                        <div class="form-group row">
+                            <label class="col-3">Şehir</label>
+                            <div class="col-9">
+                                @if (User.IsInRole(SD.Role_Admin))
+                                {
+                                    <input asp-for="OrderHeader.City" type="text" class="form-control" />
+                                    <span asp-validation-for="OrderHeader.City" class="text-danger"></span>
+                                }
+                                else
+                                {
+                                    <input asp-for="OrderHeader.City" readonly type="text" class="form-control" />
+                                }
+                            </div>
+                        </div>
+
+                        <!-- Email -->
+                        <div class="form-group row">
+                            <label class="col-3">Email</label>
+                            <div class="col-9">
+                                <input asp-for="OrderHeader.ApplicationUser.Email" type="text" class="form-control" />
+                            </div>
+                        </div>
+
+                        <!-- Dates -->
+                        <div class="form-group row">
+                            <label class="col-3">Sipariş Tarihi</label>
+                            <div class="col-9">
+                                <input value="@Model.OrderHeader.OrderDate.ToShortDateString()" readonly type="text" class="form-control" />
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-3">Gönderim Tarihi</label>
+                            <div class="col-9">
+                                <input value="@Model.OrderHeader.ShippingDate.ToShortDateString()" readonly type="text" class="form-control" />
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-3">Ödeme Tarihi</label>
+                            <div class="col-9">
+                                <input value="@Model.OrderHeader.PaymentDate.ToShortDateString()" readonly type="text" class="form-control" />
+                            </div>
+                        </div>
+
+                        <!-- Payment Status -->
+                        <div class="form-group row">
+                            <label class="col-3">Ödeme Durumu</label>
+                            <div class="col-9">
+                                <input asp-for="OrderHeader.PaymentStatus" readonly type="text" class="form-control" />
+                            </div>
+                        </div>
+
+                        @if (User.IsInRole(SD.Role_Admin))
+                        {
+                            <button type="submit" asp-action="UpdateOrderDetail" class="btn btn-warning form-control my-1">Sipariş Detaylarını Güncelle</button>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Side: Order Summary -->
+            <div class="col-12 col-lg-6">
+                <div class="card">
+                    <div class="card-header bg-dark text-light">
+                        Sipariş Özeti
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-group mb-3">
+                            @foreach (var detail in Model.OrderDetail)
+                            {
+                                <li class="list-group-item d-flex justify-content-between p-2">
+                                    <div class="row container">
+                                        <div class="col-8">
+                                            <h6 class="my-0 text-primary">@detail.Product.Title</h6>
+                                            <small class="text-muted">Fiyat: @detail.Price.ToString("c")</small><br />
+                                            <small class="text-muted">Miktar: @detail.Count</small>
+                                        </div>
+                                        <div class="col-4 text-end">
+                                            <p class="text-success">@((detail.Count * detail.Price).ToString("c"))</p>
+                                        </div>
+                                    </div>
+                                </li>
+                            }
+
+                            <li class="list-group-item bg-primary">
+                                <div class="row container">
+                                    <div class="col-6">
+                                        <h5 class="text-white">@Model.OrderHeader.OrderTotal.ToString("c")</h5>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+
+                        @if (Model.OrderHeader.PaymentStatus == SD.PaymentStatusDelayedPayment &&
+                        Model.OrderHeader.OrderStatus == SD.StatusShipped)
+                        {
+                            <button type="submit" class="btn btn-success form-control my-1">Şimdi Öde</button>
+                        }
+                        @if (User.IsInRole(SD.Role_Admin))
+                        {
+                            @if (Model.OrderHeader.OrderStatus == SD.StatusApproved)
+                            {
+                                <button type="submit" asp-action="StartProcessing"
+                                        class="btn btn-primary form-control my-1">
+                                    Süreci Başlat
+                                </button>
+                            }
+                            @if (Model.OrderHeader.OrderStatus == SD.StatusKargolandı)
+                            {
+                                <button type="submit" asp-action="StartKargolandı"
+                                        class="btn btn-primary form-control my-1">
+                                    Müşteriye Ulaştı
+                                </button>
+                            }
+                            @if (Model.OrderHeader.OrderStatus == SD.StatusInProcess)
+                            {
+                                <button type="submit" asp-action="ShipOrder" onclick="return validateInput()" class="btn btn-primary form-control my-1">Kargoya Ver</button>
+                            }
+
+                            @if (Model.OrderHeader.OrderStatus != SD.StatusRefunded &&
+                           Model.OrderHeader.OrderStatus != SD.StatusCancelled &&
+                           Model.OrderHeader.OrderStatus != SD.StatusShipped)
+                            {
+                                <button asp-action="CancelOrder" type="submit" class="btn btn-danger form-control my-1">Siparişi Sil</button>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

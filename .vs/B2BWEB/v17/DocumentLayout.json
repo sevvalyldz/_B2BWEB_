@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|solutionrelative:b2bweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|solutionrelative:b2bweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|solutionrelative:b2bweb.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|solutionrelative:b2bweb.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|solutionrelative:b2bweb.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|solutionrelative:b2bweb.models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|solutionrelative:b2bweb.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455FAF49-5BEC-419F-AD46-162FBEA67A1C}|B2BWEB.Ultility\\B2BWEB.Utility.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.ultility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455FAF49-5BEC-419F-AD46-162FBEA67A1C}|B2BWEB.Ultility\\B2BWEB.Utility.csproj|solutionrelative:b2bweb.ultility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|solutionrelative:b2bweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|solutionrelative:b2bweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A659FE-72E7-4E04-A7E8-2693F2DEBDB9}|B2BWEB.Models\\B2BWEB.Models.csproj|solutionrelative:b2bweb.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|solutionrelative:b2bweb.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E23C1716-C020-45F5-9DBC-91798944843E}|B2BWEB\\B2BWEB.csproj|solutionrelative:b2bweb\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|c:\\users\\sevval\\source\\repos\\b2bweb\\b2bweb.dataaccess\\migrations\\20241004063449_adddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279ACAE-92C7-48BA-9D3F-6AEAC5A4EB11}|B2BWEB.DataAccess\\B2BWEB.DataAccess.csproj|solutionrelative:b2bweb.dataaccess\\migrations\\20241004063449_adddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "B2BWEB\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "B2BWEB\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T08:30:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "B2BWEB\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "B2BWEB\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:28:08.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Ultility\\SD.cs",
+              "RelativeDocumentMoniker": "B2BWEB.Ultility\\SD.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Ultility\\SD.cs",
+              "RelativeToolTip": "B2BWEB.Ultility\\SD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:22:25.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "B2BWEB.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "B2BWEB.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:56:20.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241004063449_adddd.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Migrations\\20241004063449_adddd.cs",
+              "RelativeDocumentMoniker": "B2BWEB.DataAccess\\Migrations\\20241004063449_adddd.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Migrations\\20241004063449_adddd.cs",
+              "RelativeToolTip": "B2BWEB.DataAccess\\Migrations\\20241004063449_adddd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:34:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "B2BWEB.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "B2BWEB.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:21:51.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "B2BWEB.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "B2BWEB.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:33:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "B2BWEB.Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\ShoppingCart.cs",
+              "RelativeToolTip": "B2BWEB.Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:56:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "B2BWEB.Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\OrderDetail.cs",
+              "RelativeToolTip": "B2BWEB.Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:56:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "B2BWEB.Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\OrderHeader.cs",
+              "RelativeToolTip": "B2BWEB.Models\\OrderHeader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:55:45.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "B2BWEB.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "B2BWEB.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:56:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "B2BWEB\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "B2BWEB\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T05:50:30.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "B2BWEB\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "B2BWEB\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:50:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "B2BWEB\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "B2BWEB\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T08:29:08.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

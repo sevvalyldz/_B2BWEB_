@@ -1,0 +1,12 @@
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.AssemblyInfoInputs.cache
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.AssemblyInfo.cs
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\bin\Debug\net8.0\B2BWEB.Models.deps.json
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\bin\Debug\net8.0\B2BWEB.Models.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\bin\Debug\net8.0\B2BWEB.Models.pdb
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\refint\B2BWEB.Models.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.pdb
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\ref\B2BWEB.Models.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Models\obj\Debug\net8.0\B2BWEB.Models.csproj.AssemblyReference.cache

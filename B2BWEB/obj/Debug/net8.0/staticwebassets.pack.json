@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\B2BWEB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\B2BWEB.snn4o78xcf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\0af7427a-29b5-45a9-afcc-4a8e0ab9cf85.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0af7427a-29b5-45a9-afcc-4a8e0ab9cf85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\0b753995-2bbc-44b2-8f78-8d51ae6c53f7.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\0b753995-2bbc-44b2-8f78-8d51ae6c53f7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\1d9a441f-e41a-4e62-99ac-b37186fe30f6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1d9a441f-e41a-4e62-99ac-b37186fe30f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\2615bce8-91c3-46ac-81fd-2289c7d9534a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2615bce8-91c3-46ac-81fd-2289c7d9534a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\2791088b-b746-4b77-af40-eec9efdc72e6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2791088b-b746-4b77-af40-eec9efdc72e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\29ee3105-acd3-48f6-817e-d70660139239.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\29ee3105-acd3-48f6-817e-d70660139239.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\2e025bd1-b789-43dc-bc84-579f70541764.webp",
+      "PackagePath": "staticwebassets\\images\\product\\2e025bd1-b789-43dc-bc84-579f70541764.webp"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\2f8970ff-f5d7-4277-bb6d-6fc1661d3c51.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2f8970ff-f5d7-4277-bb6d-6fc1661d3c51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\3457c083-4c62-4eb9-a6b2-d4f0ecbbf14a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3457c083-4c62-4eb9-a6b2-d4f0ecbbf14a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\458e4a4a-8595-43f0-94ec-586854dd94d9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\458e4a4a-8595-43f0-94ec-586854dd94d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\4b0ccac9-c3bc-4ddb-9ad5-80412bff96b5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4b0ccac9-c3bc-4ddb-9ad5-80412bff96b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\518f1500-f1a9-45a2-8e60-d2832c06a893.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\518f1500-f1a9-45a2-8e60-d2832c06a893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\8b28152e-cf61-4aad-ab33-69cecec6b20d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8b28152e-cf61-4aad-ab33-69cecec6b20d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\8c857e90-2e43-48d1-8a06-eef2e5379321.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8c857e90-2e43-48d1-8a06-eef2e5379321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\8d1a3a60-eec4-40f3-b3d2-09edfed09e2e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8d1a3a60-eec4-40f3-b3d2-09edfed09e2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\Ekran görüntüsü 2024-09-30 132843.png",
+      "PackagePath": "staticwebassets\\images\\product\\Ekran görüntüsü 2024-09-30 132843.png"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\ae94dcd2-0ad8-4b30-82e3-c3ea77f35944.webp",
+      "PackagePath": "staticwebassets\\images\\product\\ae94dcd2-0ad8-4b30-82e3-c3ea77f35944.webp"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\c7b3dda7-60fb-4c94-8d95-0a6b61718c83.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c7b3dda7-60fb-4c94-8d95-0a6b61718c83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\cb047ab2-579a-407e-9398-ca974661c1e7.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\cb047ab2-579a-407e-9398-ca974661c1e7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\cbed4440-6c26-4955-a6d0-ba3f377d2a64.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cbed4440-6c26-4955-a6d0-ba3f377d2a64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\cfc22ba7-a19c-4f38-9e1a-a1370424d388.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cfc22ba7-a19c-4f38-9e1a-a1370424d388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\d06381b3-cb9c-4bf0-b801-c16449a56f0e.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\d06381b3-cb9c-4bf0-b801-c16449a56f0e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\d4400f48-8af6-4d01-9831-81ad0b9ce768.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d4400f48-8af6-4d01-9831-81ad0b9ce768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\e2faba62-57fe-4825-96c4-62ab9fbe2b73.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e2faba62-57fe-4825-96c4-62ab9fbe2b73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\images\\product\\siparis.png",
+      "PackagePath": "staticwebassets\\images\\product\\siparis.png"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.B2BWEB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.B2BWEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.B2BWEB.props",
+      "PackagePath": "build\\B2BWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.B2BWEB.props",
+      "PackagePath": "buildMultiTargeting\\B2BWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.B2BWEB.props",
+      "PackagePath": "buildTransitive\\B2BWEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

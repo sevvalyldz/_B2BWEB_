@@ -1,0 +1,66 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Giriş Yapın";
+}
+
+<div class="card show border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-4">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="py-2 text-white">Giriş Yapın</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row justify-content-center align-items-start min-vh-100">
+            <!-- Yatay ve dikey ortalamak için -->
+            <div class="col-md-12">
+                <section>
+                    <form id="account" method="post">
+                        <h2 class="text-center">Giriş yapmak için bir hesap kullanın.</h2> <!-- Başlığı ortalamak için -->
+                        <hr />
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                            <label asp-for="Input.Email" class="form-label">Email</label>
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                            <label asp-for="Input.Password" class="form-label">Şifre</label>
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+                        <div class="checkbox mb-3">
+                            <label asp-for="Input.RememberMe" class="form-label">
+                                <input class="form-check-input" asp-for="Input.RememberMe" />
+                                @Html.DisplayNameFor(m => m.Input.RememberMe)
+                            </label>
+                        </div>
+                        <div>
+                            <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Giriş</button>
+                        </div>
+                        <div class="d-flex justify-content-between pt-2">
+                            <p>
+                                <a id="forgot-password" asp-page="./ForgotPassword">Şifrenizi mi unuttunuz?</a>
+                            </p>
+                            <p>
+                                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Yeni kullanıcı olarak kaydolun</a>
+                            </p>
+                            <p>
+                                <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">E-posta onayını tekrar gönder</a>
+                            </p>
+                        </div>
+                    </form>
+                </section>
+            </div>
+        </div>
+
+        </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

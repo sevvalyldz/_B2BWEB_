@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vbw/Y/iLsrg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sevval\\source\\repos\\B2BWEB\\B2BWEB.Models\\B2BWEB.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.8\\microsoft.extensions.identity.core.8.0.8.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.8\\microsoft.extensions.identity.stores.8.0.8.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Sevval\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "B2BWEB.Models depends on Microsoft.Extensions.Identity.Stores (>= 8.0.8-preview.2.23153.2) but Microsoft.Extensions.Identity.Stores 8.0.8-preview.2.23153.2 was not found. Microsoft.Extensions.Identity.Stores 8.0.8 was resolved instead.",
+      "libraryId": "Microsoft.Extensions.Identity.Stores",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

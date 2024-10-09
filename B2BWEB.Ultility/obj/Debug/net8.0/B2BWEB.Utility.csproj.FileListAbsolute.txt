@@ -1,0 +1,12 @@
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\bin\Debug\net8.0\B2BWEB.Utility.deps.json
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\bin\Debug\net8.0\B2BWEB.Utility.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\bin\Debug\net8.0\B2BWEB.Utility.pdb
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.AssemblyInfoInputs.cache
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.AssemblyInfo.cs
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\refint\B2BWEB.Utility.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.pdb
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\ref\B2BWEB.Utility.dll
+C:\Users\Sevval\source\repos\B2BWEB\B2BWEB.Ultility\obj\Debug\net8.0\B2BWEB.Utility.csproj.AssemblyReference.cache

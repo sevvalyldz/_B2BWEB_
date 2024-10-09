@@ -1,0 +1,105 @@
+﻿@page
+@using B2BWEB.Areas.Identity.Pages.Account
+@model RegisterModel
+
+<div class="card show border-0 my-4">
+    <div class="card-header bg-secondary bg-gradient py-4">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="py-2 text-white">Kayıt Olun</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pt-4">
+            <div class="col-md-12">
+                <form id="registerForm" class="row" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                    <h2 class="text-center">Yeni bir hesap oluştur.</h2>
+                    <hr />
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                    <!-- Email -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                        <label asp-for="Input.Email" class="ms-2 text-muted">Email</label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+
+                    <!-- Full Name -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.Name" class="form-control" placeholder="John Doe" />
+                        <label asp-for="Input.Name" class="ms-2 text-muted">Full İsim</label>
+                        <span asp-validation-for="Input.Name" class="text-danger"></span>
+                    </div>
+
+                    <!-- Phone Number -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.PhoneNumber" class="form-control" placeholder="555-555-5555" />
+                        <label asp-for="Input.PhoneNumber" class="ms-2 text-muted">Telefon Numarası</label>
+                        <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                    </div>
+
+                    <!-- Address -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.StreetAddress" class="form-control" placeholder="123 Street" />
+                        <label asp-for="Input.StreetAddress" class="ms-2 text-muted">Adres</label>
+                        <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
+                    </div>
+
+                    <!-- City -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.City" class="form-control" placeholder="Istanbul" />
+                        <label asp-for="Input.City" class="ms-2 text-muted">Şehir</label>
+                        <span asp-validation-for="Input.City" class="text-danger"></span>
+                    </div>
+
+                    <!-- State -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.State" class="form-control" placeholder="TR" />
+                        <label asp-for="Input.State" class="ms-2 text-muted">İlçe</label>
+                        <span asp-validation-for="Input.State" class="text-danger"></span>
+                    </div>
+
+                    <!-- Postal Code -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.PostalCode" class="form-control" placeholder="34000" />
+                        <label asp-for="Input.PostalCode" class="ms-2 text-muted">Posta Kodu</label>
+                        <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                    </div>
+
+                    <!-- Password -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                        <label asp-for="Input.Password" class="ms-2 text-muted">Şifre</label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+
+                   
+
+                    <!-- Role Selection -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
+                            <option disabled selected>-Rol Seç-</option>
+                        </select>
+                    </div>
+                    <!-- Confirm Password -->
+                    <div class="form-floating mb-3 col-md-6">
+                        <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                        <label asp-for="Input.ConfirmPassword" class="ms-2 text-muted">Şifreyi Onayla</label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="col-12">
+                        <button id="registersubmit" type="submit" class="w-100 btn btn-lg btn-primary">Kayıt Olun</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
